@@ -1,0 +1,27 @@
+{
+  "name": "AES-App",
+  "version": "0.0.1",
+  "description": "AES App with NodeJS, AngularJS, Express, Bootstrap",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamsoniteSwan/AES-App.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Express",
+    "Bootstrap"
+  ],
+  "author": "Jeremy Swanson",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/SamsoniteSwan/AES-App/issues"
+  }
+}

@@ -1,0 +1,14 @@
+Q1: About how long did it take?
+A1:
+
+Q2: What did you find the most difficult?
+A2:
+
+Q3: What resources did you use to solve your problems?
+A3:
+
+Q4: What prior knowledge/projects helped you complete this?
+A4: The following prior knowledge assisted me in completing this project:
+	--linux programs like apt-get for installing the projects dependencies
+	--Git for creating and using a repository for the project
+	--
